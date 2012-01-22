@@ -8,13 +8,13 @@
 Summary:	MooseX::POE - The Illicit Love Child of Moose and POE
 #Summary(pl.UTF-8):	
 Name:		perl-MooseX-POE
-Version:	0.211
+Version:	0.214
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/MooseX/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	1bf02b402bbd10b3e146f0b16cc8046c
+# Source0-md5:	64f18c2b742e43de6ce787a9ed739dc1
 URL:		http://search.cpan.org/dist/MooseX-POE/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
