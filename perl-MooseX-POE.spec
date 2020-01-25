@@ -4,7 +4,6 @@
 #
 %define		pdir	MooseX
 %define		pnam	POE
-%include	/usr/lib/rpm/macros.perl
 Summary:	MooseX::POE - The Illicit Love Child of Moose and POE
 #Summary(pl.UTF-8):	
 Name:		perl-MooseX-POE
